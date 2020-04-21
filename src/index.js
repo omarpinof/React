@@ -13,6 +13,8 @@ import Badge from './components/Badge'
 
 ); */
 
-const container = document.getElementById('app');
+//No ENTIENDO PORQUE POR CONSOLA NO ME SUBE LA INFORMACION 
 
-ReactDOM.render (<Badge/>,container);
+const container1 = document.getElementById('app');
+
+ReactDOM.render (<Badge/>,container1);
